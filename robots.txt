@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-w6bgcw.planetjp.online/sitemap.xml
